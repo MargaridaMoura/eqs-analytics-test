@@ -1,0 +1,7 @@
+metric_code,metric_name,category,canonical_uom,is_additive
+SCOPE1_GHG,Scope 1 GHG Emissions,Emissions,t,Y
+SCOPE2_GHG,Scope 2 GHG Emissions (market-based),Emissions,t,Y
+ENERGY_CONS,Total Energy Consumption,Energy,MWh,Y
+WATER_WD,Water Withdrawal,Water,m3,Y
+WASTE_TOTAL,Total Waste Generated,Waste,t,Y
+HOURS_WORKED,Hours Worked,Safety,hours,Y

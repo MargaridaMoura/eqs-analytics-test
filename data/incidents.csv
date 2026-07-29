@@ -1,0 +1,50 @@
+incident_id,site_id,incident_date,incident_type,severity,is_recordable,lost_days,reported_by
+5041,110,2024-01-05,Ergonomic,Medium,Y,9,Line Manager
+5012,103,2024-01-14,Struck By,Low,N,0,Self-report
+5039,109,2024-01-23,Struck By,High,N,0,EHS Officer
+5037,109,2024-02-23,Caught In/Between,Medium,Y,2,EHS Officer
+5024,107,2024-03-08,Slip/Trip/Fall,Low,Y,12,Line Manager
+5020,105,2024-03-10,Struck By,Low,Y,18,EHS Officer
+5038,109,2024-03-20,Struck By,Low,N,0,EHS Officer
+5015,104,2024-03-25,Slip/Trip/Fall,Medium,Y,12,EHS Officer
+5017,104,2024-03-31,Electrical,Medium,N,0,Line Manager
+5011,103,2024-04-21,Caught In/Between,Low,Y,0,Self-report
+5029,108,2024-05-14,Chemical Exposure,Low,Y,8,Line Manager
+5003,101,2024-07-16,Struck By,High,Y,16,EHS Officer
+5007,102,2024-08-04,Slip/Trip/Fall,High,Y,12,EHS Officer
+5013,103,2024-08-10,Struck By,Medium,N,0,Self-report
+5028,107,2024-09-01,Caught In/Between,High,Y,6,EHS Officer
+5005,101,2024-11-01,Caught In/Between,Medium,Y,16,Line Manager
+5022,106,2024-11-28,Slip/Trip/Fall,High,Y,0,Self-report
+5032,108,2024-12-05,Ergonomic,Low,Y,21,Line Manager
+5009,102,2024-12-10,Slip/Trip/Fall,Medium,Y,11,Line Manager
+5010,102,2024-12-11,Ergonomic,High,Y,11,EHS Officer
+5046,112,2025-01-03,Slip/Trip/Fall,Low,Y,3,Self-report
+5036,109,2025-01-23,Struck By,High,N,0,Self-report
+5044,111,2025-02-06,Struck By,High,N,0,EHS Officer
+5021,106,2025-02-18,Ergonomic,Medium,Y,21,EHS Officer
+5001,101,2025-02-19,Struck By,Medium,Y,3,Line Manager
+5035,109,2025-03-05,Caught In/Between,Medium,Y,6,EHS Officer
+5006,101,2025-04-02,Ergonomic,High,N,0,Line Manager
+5034,109,2025-04-07,Caught In/Between,Medium,N,0,Line Manager
+5043,111,2025-04-16,Ergonomic,High,N,0,EHS Officer
+5008,102,2025-05-07,Electrical,Medium,Y,9,Line Manager
+5008,102,2025-05-07,Electrical,Medium,Y,14,EHS Officer
+5019,105,2025-06-03,Ergonomic,Low,N,0,Line Manager
+5004,101,2025-06-10,Struck By,Medium,Y,10,Self-report
+5002,101,2025-06-14,Ergonomic,Low,Y,2,Self-report
+5027,107,2025-06-16,Chemical Exposure,Medium,Y,5,Self-report
+5040,110,2025-07-17,Chemical Exposure,Medium,N,0,Line Manager
+5023,106,2025-07-21,Ergonomic,Medium,Y,19,Line Manager
+5042,110,2025-07-23,Caught In/Between,Low,N,0,Line Manager
+5030,108,2025-08-08,Caught In/Between,Low,Y,15,Self-report
+5047,107,2025-08-14,Ergonomic,Low,Y,3,Line Manager
+5033,109,2025-08-15,Caught In/Between,Low,Y,12,Line Manager
+5026,107,2025-08-18,Electrical,Medium,Y,7,Line Manager
+5031,108,2025-09-09,Struck By,High,N,0,Self-report
+5025,107,2025-09-16,Struck By,High,Y,21,EHS Officer
+5045,112,2025-09-20,Electrical,Medium,Y,21,Self-report
+5014,104,2025-09-21,Slip/Trip/Fall,Medium,N,0,Self-report
+5016,104,2025-10-15,Electrical,Medium,Y,5,Self-report
+5048,107,2025-11-02,Ergonomic,Low,Y,3,Line Manager
+5018,104,2025-12-27,Caught In/Between,Medium,N,0,Self-report

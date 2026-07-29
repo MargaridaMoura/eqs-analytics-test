@@ -1,0 +1,9 @@
+from_uom,to_uom,factor
+kWh,MWh,0.001
+MWh,MWh,1
+GJ,MWh,0.2777777778
+kg,t,0.001
+t,t,1
+m3,m3,1
+l,m3,0.001
+hours,hours,1

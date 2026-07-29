@@ -1,0 +1,13 @@
+site_id,site_name,country,region,business_unit,headcount,valid_from,valid_to
+101,Berlin Turbine Works,DE,EMEA,Gas Services,1200,2023-01-01,
+102,Muelheim Compressor Plant,Germany,EMEA,Gas Services,850,2023-01-01,
+103,Erlangen Grid Hub ,germany ,EMEA,Grid Technologies,640,2023-01-01,
+104,Charlotte Energy Center,US,AMERICAS,Gas Services,980,2023-01-01,
+105,Houston Service Hub,USA,AMERICAS,Transformation of Industry,410,2023-01-01,
+106,Monterrey Assembly,MX,AMERICAS,Grid Technologies,720,2023-01-01,
+107,Aalborg Blade Facility,DK,EMEA,Siemens Gamesa,1100,2023-01-01,2025-06-30
+108,Hull Nacelle Plant,GB,EMEA,Siemens Gamesa,890,2023-01-01,
+109,Gurgaon Engineering,IN,APAC,Grid Technologies,1500,2023-01-01,
+110,Shanghai Switchgear,CN,APAC,Grid Technologies,670,2023-01-01,2025-09-30
+111,Porto Analytics Centre,PT,EMEA,Transformation of Industry,230,2024-04-01,
+112,Osaka Power Systems,JP,APAC,Gas Services,540,2023-01-01,
